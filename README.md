@@ -169,23 +169,13 @@ personal-budget-tracker/
 - [ ] Deployment setup
 - [ ] Documentation and user guide
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@yash-dongare](https://github.com/yash-dongare)
+- Email: yashanilkumardongare@gmail.com
 
 ## 🙏 Acknowledgments
 
